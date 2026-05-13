@@ -57,7 +57,7 @@ segundo-parcial-des-app-web/
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 ```bash
 # 1. Instalar dependencias
@@ -189,8 +189,8 @@ La ruta raíz y cualquier ruta desconocida redirigen a `/login`. El guardia de n
 
 ## 📊 Contribuciones
 
-![Contribuciones](assets/Contribuciones.jpg)
+![Contribuciones](public/img/Contribuciones.png)
 
 ## 🌿 Branches
 
-![Branches](assets/Branches.jpg)
+![Branches](public/img/Branches.png)
