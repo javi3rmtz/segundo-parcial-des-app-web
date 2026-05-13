@@ -184,9 +184,13 @@ La ruta raíz y cualquier ruta desconocida redirigen a `/login`. El guardia de n
 
 ## 🤝 Trabajo colaborativo
 
-> *(Reemplazar con los enlaces reales del repositorio GitHub después de subir el proyecto)*
+- 🔗 Repositorio: `https://github.com/javi3rmtz/segundo-parcial-des-app-web.git`
+- 🌿 Ramas: `main`, `parcial`
 
-- 🔗 Repositorio: `https://github.com/[usuario]/segundo-parcial-des-app-web`
-- 📌 Commits: Ver historial en la pestaña "Commits"
-- 🌿 Ramas: `main`, `feature/crud-productos`, `feature/login`
-- 🔀 Pull Requests: Ver en la pestaña "Pull requests"
+## 📊 Contribuciones
+
+![Contribuciones](assets/Contribuciones.jpg)
+
+## 🌿 Branches
+
+![Branches](assets/Branches.jpg)
