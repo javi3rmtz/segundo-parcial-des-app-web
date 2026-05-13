@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Gamer ASUS ROG",
+    "precio": 3500000,
+    "categoria": "Computadores",
+    "stock": 8,
+    "descripcion": "Procesador Intel i7-12700H, RTX 3070, 16GB RAM, 512GB SSD. Ideal para gaming de alto rendimiento.",
+    "imagen": "/img/Laptop Gamer ASUS ROG.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "iPhone 15 Pro",
+    "precio": 4200000,
+    "categoria": "Celulares",
+    "stock": 15,
+    "descripcion": "Chip A17 Pro, cámara 48MP, pantalla Super Retina XDR 6.1\". Titanio natural.",
+    "imagen": "/img/iphone.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Audífonos Sony WH-1000XM5",
+    "precio": 1200000,
+    "categoria": "Audio",
+    "stock": 20,
+    "descripcion": "Cancelación de ruido líder en la industria, 30h de batería, Bluetooth 5.2.",
+    "imagen": "/img/sony-wh1000xm5.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor LG UltraWide 4K",
+    "precio": 2800000,
+    "categoria": "Monitores",
+    "stock": 5,
+    "descripcion": "34\" curvo, resolución 3440x1440, 144Hz, HDR10, panel IPS.",
+    "imagen": "/img/lg-ultrawide-4k.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Samsung Galaxy S24 Ultra",
+    "precio": 5100000,
+    "categoria": "Celulares",
+    "stock": 10,
+    "descripcion": "Snapdragon 8 Gen 3, cámara 200MP, S Pen incluido, 12GB RAM.",
+    "imagen": "/img/samsung-galaxy-s24-ultra.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Teclado Mecánico Logitech G915",
+    "precio": 850000,
+    "categoria": "Periféricos",
+    "stock": 12,
+    "descripcion": "Switches GL táctiles, retroiluminación RGB, perfil delgado, inalámbrico.",
+    "imagen": "/img/logitech-g915.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Mouse Razer DeathAdder V3",
+    "precio": 380000,
+    "categoria": "Periféricos",
+    "stock": 25,
+    "descripcion": "Sensor óptico Focus Pro 30K DPI, 5 botones programables, cable SpeedFlex.",
+    "imagen": "/img/razer-deathadder-v3.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Tablet iPad Pro M2",
+    "precio": 3900000,
+    "categoria": "Tablets",
+    "stock": 7,
+    "descripcion": "Pantalla Liquid Retina 12.9\", chip M2, ProMotion 120Hz, compatible Apple Pencil.",
+    "imagen": "/img/ipad-pro-m2.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "SSD Samsung 980 Pro 1TB",
+    "precio": 420000,
+    "categoria": "Almacenamiento",
+    "stock": 30,
+    "descripcion": "NVMe PCIe 4.0, velocidad lectura 7000MB/s, escritura 5000MB/s.",
+    "imagen": "/img/samsung-980-pro-1tb.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Cámara Sony Alpha A7 IV",
+    "precio": 9500000,
+    "categoria": "Fotografía",
+    "stock": 3,
+    "descripcion": "Sensor full-frame 33MP, estabilización 5 ejes, video 4K 60fps, AF en tiempo real.",
+    "imagen": "/img/sony-a7-iv.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Smart TV Samsung QLED 65\"",
+    "precio": 4700000,
+    "categoria": "Televisores",
+    "stock": 4,
+    "descripcion": "4K QLED, 120Hz, HDR10+, Tizen OS, compatible con Alexa y Google Assistant.",
+    "imagen": "/img/samsung-qled-tv.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Consola PlayStation 5",
+    "precio": 3200000,
+    "categoria": "Gaming",
+    "stock": 6,
+    "descripcion": "SSD ultra rápido, DualSense con haptics, 4K 120fps, retrocompatible PS4.",
+    "imagen": "/img/playstation-5.jpg"
+  }
+]
